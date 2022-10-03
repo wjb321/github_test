@@ -21,3 +21,14 @@ basic address:
 cd file
 cd ..
 ...
+
+
+when do this:
+'''
+# git add .
+'''
+and then find some file is not needed to be updated to cash do this:
+'''
+# git rm --cached c/test/folder/ -r
+'''
+then all the files will be removed from cash, or you can remove some files respectively.
