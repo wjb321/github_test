@@ -49,3 +49,5 @@ then all the files will be removed from cash, or you can remove some files respe
 
 >git checkout main
 
+**git rebase**
+[reference of git rebase](https://waynerv.com/posts/git-rebase-intro/)
