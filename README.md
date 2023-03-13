@@ -8,7 +8,7 @@ pull:
 >git commit -m "update info"  
 >git push origin -u main  
 
-basic for checking username and user email  
+**basic for checking username and user email**  
 
 >git config user.name   
 >git config user.email  
@@ -21,12 +21,14 @@ basic for checking username and user email
 > cd file  
 > cd ..  
 ...
-when do this:  
-'''
+**when do this:**
+
 >git add .  
-'''
+
 and then find some file is not needed to be updated to cash do this:  
-the reference is [reference of remove files/folder from github](https://www.jianshu.com/p/de75a9e3d1e1)
+the reference is [reference of remove files/folder from github](https://www.jianshu.com/p/de75a9e3d1e1)  
+
+>**explainition:** first make sure cd the address, the format should same like local git: /e/jiabin_github/TTCan-/???/the file want to be deleted, then do git rm -r/ -r -f......  
 
 >git rm --cached c/test/folder/ -r  
 
