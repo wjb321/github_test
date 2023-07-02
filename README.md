@@ -33,6 +33,9 @@ the reference is [reference of remove files/folder from github](https://www.jian
 >git rm --cached c/test/folder/ -r  
 
 then all the files will be removed from cash, or you can remove some files respectively.  
+**examples in gitbatch:**  
+hoshiraku@DESKTOP-I6SK8BP MINGW64 /e/jiabin_github/Thesis_TTCAN- (main)    
+$ git rm -r PWMNode+LVGL_v1/OBJ  
 
 **when doing brancH**    
 **1. create branch**  
